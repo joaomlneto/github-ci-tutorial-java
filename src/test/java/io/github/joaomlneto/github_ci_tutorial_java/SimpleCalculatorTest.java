@@ -11,7 +11,7 @@ public class SimpleCalculatorTest {
     @Test
     @DisplayName("Add two numbers")
     public void testAdd() {
-        assertEquals(3, calc.add(1, 1));
+        assertEquals(2, calc.add(1, 1));
     }
 
     @Test
