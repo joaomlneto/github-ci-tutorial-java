@@ -9,7 +9,7 @@ This repository has a [workflow](.github/workflows/run-maven-tests-on-push.yaml)
 
 ### How can I play with it myself?
 1. [Fork this repository](https://github.com/joaomlneto/github-ci-tutorial-java/fork).
-2. Fix the `README.md` badges (replacing all occurrences of `joaomlneto` with `your GitHub username`) and push the changes.
+2. Fix the `README.md` badges (replacing all occurrences of `joaomlneto` with ***your GitHub username***) and push the changes.
 3. Verify if workflow executes and test pass, going to the [Actions](https://github.com/joaomlneto/github-ci-tutorial-java/actions) tab.
 
 ### Contributing
