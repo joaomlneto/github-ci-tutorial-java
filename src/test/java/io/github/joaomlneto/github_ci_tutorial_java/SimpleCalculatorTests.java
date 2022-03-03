@@ -14,7 +14,7 @@ public class SimpleCalculatorTests {
 
     @Test
     public void testAdd() {
-        Assert.assertEquals(calc.add(1, 1), 2);
+        Assert.assertEquals(calc.add(1, 1), 3);
     }
 
     @Test
